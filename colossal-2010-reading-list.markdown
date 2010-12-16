@@ -166,7 +166,7 @@
 
 6. Open Veins of Latin America: Five Centuries of the Pillage of a Continent by Eduardo Galeano (3.5)
 
-6. The Last Lecture by Randy Pausch (3.5)
+6. **The Last Lecture by Randy Pausch** (3.5) — was better in [video form](http://www.youtube.com/watch?v=ji5_MqicxSo)
 
 6. Fluid Web Typography by Jason Cranford Teague (3.5)
 
@@ -222,7 +222,7 @@
 
 9. Caught in Play: How Entertainment Works on You by Peter Stromberg (2.5)
 
-9. American Conspiracies: Lies, Lies, and More Dirty Lies that the Government Tells Us by Jesse Ventura
+9. American Conspiracies: Lies, Lies, and More Dirty Lies that the Government Tells Us by Jesse Ventura (2.5)
 
 2. The Planet Construction Kit by Mark Rosenfelder (2.0)
 
